@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 
-/* general styles */
+/* general styles acorss site*/
 
 body {
   min-height: 100vh;
@@ -22,6 +22,10 @@ body {
 
 header {
   background-color: lightcoral;
+}
+
+header h1 {
+  font-family: "Oswald", sans-serif;
 }
 
 /* main */
